@@ -3,7 +3,6 @@ In this project, I have implemented the concept of Limear Regression. I have imp
 
 ## Requirements
 
-To install the required python libraries, execute the following command in the terminal :-   
 -pip install -r requirments.txt
 
 ## To Run
