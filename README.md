@@ -5,4 +5,4 @@ To install the required python libraries, execute the following command in the t
 -pip install -r requirments.txt
 
 To run the program :-   
-Open WirelessSoundControl.py and execute it
+Open Linear_Regression.py and execute it
